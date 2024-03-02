@@ -7,7 +7,7 @@ Student - Backend Developer
 Namjai Website (July 2023 - NOW) - Back End Developer - It is freelance that is being worked with a team. It is about opening up fundraising and donations for various campaigns that various churches have created Scholarship Engineering CMU Web (Oct 2022 - NOW) - Back End Developer - This is a job hired by a teacher. to edit the old website and create a new website that use react to create website page and use nest-js to create database and api
 
 * 🌍  I'm based in Chiang Mai, Thailand
-* ✉️  You can contact me at [kaothom@gmail.com](mailto:kaothom@gmail.com)
+* ✉️  You can contact me at [ronnagon.phu@gmail.com](mailto:ronnagon.phu@gmail.com)
 * 🧠  I'm learning Data Engineer
 * ⚡  I'm looking for a position: Backend Developer, Data Engineer.
 
